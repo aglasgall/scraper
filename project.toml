@@ -1,0 +1,17 @@
+[build]
+
+exclude= [
+         "fly.toml",
+         "orig/**",
+         "dist/**",
+         "*~",
+         ".git/**",
+         "etc/**",
+         "__pycache__/**",
+         "include/**",
+         "lib/**",
+         "lib64/**",
+         "share/**",
+         "run/**",
+         ".ipynb_checkpoints/**"]
+
